@@ -1,0 +1,5 @@
+> git rm --cached -r -- .
+error: the following file has staged content different from both the
+file and the HEAD:
+    README.md
+(use -f to force removal)
